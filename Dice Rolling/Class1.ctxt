@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Class1()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Class1\n
+comment1.params=dieType
+comment1.target=void\ setDieType(int)
+comment2.params=numDice
+comment2.target=void\ setNumDice(int)
+comment3.params=minTarget
+comment3.target=void\ setMinTarget(int)
+comment4.params=maxTarget
+comment4.target=void\ setMaxTarget(int)
+comment5.params=
+comment5.target=void\ roll()
+numComments=6

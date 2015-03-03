@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=purchaseDesign()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ purchaseDesign\n
+comment1.params=
+comment1.target=void\ fillArray()
+comment2.params=lastName\ firstName\ companyName\ address\ city\ state\ zip\ phone
+comment2.target=void\ createPerson(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=designType
+comment3.target=void\ chooseDesign(int)
+comment4.params=featureNum
+comment4.target=void\ chooseFeatures(int)
+comment5.params=
+comment5.target=void\ calculateBill()
+comment6.params=
+comment6.target=void\ printBill()
+numComments=7
